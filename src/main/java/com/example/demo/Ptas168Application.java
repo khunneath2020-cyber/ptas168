@@ -8,6 +8,7 @@ public class Ptas168Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Ptas168Application.class, args);
+		System.out.println("Hello World");
 	}
 
 }
